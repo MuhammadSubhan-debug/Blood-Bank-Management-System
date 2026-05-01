@@ -66,8 +66,8 @@ namespace BBMS
 
             try
             {
-                string fromEmail = "msk2224656@gmail.com";
-                string appPassword = "chle ugag zwpo oikj";
+                string fromEmail = "your_email_address";
+                string appPassword = "password";//go to gmail setting  -> two step verficatiaon -> make an app password use this to work correctly 
 
                 var mail = new System.Net.Mail.MailMessage();
                 mail.From = new System.Net.Mail.MailAddress(fromEmail, "Blood Bank System");
