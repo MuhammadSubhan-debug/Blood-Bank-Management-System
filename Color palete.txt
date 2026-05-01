@@ -1,0 +1,28 @@
+#D9043D
+#8C0327
+#590B2F
+#8C6E54
+#F28D8D
+
+#D9043D → 217, 4, 61
+#8C0327 → 140, 3, 39
+#590B2F → 89, 11, 47
+#8C6E54 → 140, 110, 84
+#F28D8D → 242, 141, 141
+
+
+#F21628
+#514BF2
+#BABFBD
+#5C732C
+#AEBF6F
+
+
+-------------------
+Main #BABFBD
+Primary color (buttons, headers)
+#514BF2
+Danger / alerts
+#F21628
+
+
