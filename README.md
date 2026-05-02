@@ -34,35 +34,7 @@ SQL Server
 ADO.NET (SqlConnection, SqlCommand, DataReader)
 GDI+ (Image Handling)
 SMTP (Email OTP System)
-🗂️ Project Structure
-BBMS/
-│
-├── Forms/
-│   ├── LoginPage.cs
-│   ├── Dashboard.cs
-│   ├── UserDashboard.cs
-│   ├── Donation.cs
-│   ├── Request.cs
-│   ├── Inventory.cs
-│   ├── ManagePatient.cs
-│   └── ...
-│
-├── Models/
-│   ├── User.cs
-│   ├── DonationAppointment.cs
-│   ├── BloodRequest.cs
-│
-├── Database/
-│   ├── DBManager.cs
-│
-├── Resources/
-│   ├── Images
-│   ├── Icons
-│
-├── Logs/
-│   └── (Error logs stored here)
-│
-└── Program.cs
+
 ⚙️ Setup Instructions
 Clone the repository:
 git clone https://github.com/your-username/BBMS.git
@@ -95,3 +67,4 @@ BSCS Student | C# Developer
 📜 License
 
 This project is for educational purposes.
+ScreenShots of Project are given in github 
